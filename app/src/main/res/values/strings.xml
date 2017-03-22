@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">OutSauce</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="job_inbox_string">Job Inbox</string>
+    <string name="job_outbox_string">Job Outbox</string>
+    <string name="notifications_string">Notifications</string>
+    <string name="settings_string">Settings</string>
+    <string name="signup_string">Sign Up</string>
+    <string name="signin_string">Sign In</string>
+    <string name="logout_string">Log Out</string>
+    <string name="favourites_string">Favourites</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_string">Search All</string>
+    <string name="dummy_text_fullname">dummytext</string>
+    <string name="dummy_text_email_address">dummytext@nmmu.ac.za</string>
+    <string name="dummy_text">dummy</string>
+    <string name="email_address">Email address</string>
+    <string name="password_string">Password</string>
+    <string name="email_address_hint_string">Email address*</string>
+    <string name="password_hint_string">Password*</string>
+    <string name="confirm_password_hint_string">Confirm password*</string>
+    <string name="first_name_hint_string">First name*</string>
+    <string name="last_name_hint_string">Last name*</string>
+    <string name="course_name_hint_string">Course name*</string>
+    <string name="year_of_study_hint_string">Year of study*</string>
+    <string name="contact_number_string">Contact number</string>
+    <string name="required_field_string">* Required fields</string>
+    <string name="submit_string">Submit</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="big_profile_picture_string">Big user profile picture</string>
+    <string name="work_string">Work</string>
+    <string name="contact_number_image_string">Contact number image</string>
+    <string name="title_activity_job">JobActivity</string>
+    <string name="title_activity_inbox_job">InboxJobActivity</string>
+    <string name="title_activity_outbox_job">OutboxJobActivity</string>
+    <string name="report_user">Report User</string>
+    <string name="title_activity_modify_profile">ModifyProfileActivity</string>
+    <string name="email_address_string">Email Address</string>
+    <string name="done_string">done</string>
+
+
+</resources>

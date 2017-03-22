@@ -1,0 +1,9 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context="activities.RegisterActivity">
+    <item android:id="@+id/doneButton"
+        android:title="done"
+        android:icon="@drawable/ic_done_white_48dp"
+        app:showAsAction="collapseActionView|ifRoom"/>
+</menu>

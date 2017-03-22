@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="activities.JobActivity">
+    <item android:id="@+id/doneButton" android:title="@string/done_string"
+        android:icon="@drawable/ic_send_white_48dp" app:showAsAction="always" />
+</menu>

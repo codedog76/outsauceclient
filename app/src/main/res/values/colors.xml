@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="black" type="color">#000000</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="errorRed" type="color">#FFFF4444</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="grey" type="color">#c2c2c2</item>
+    <item name="darkgrey" type="color">#878787</item>
+    <item name="light_grey" type="color">#d7d7d7</item>
+    <item name="dark_primary_color" type="color">#303F9F</item>
+    <item name="primary_color" type="color">#3F51B5</item>
+    <item name="light_primary_color" type="color">#C5CAE9</item>
+    <item name="accent_color" type="color">#009688</item>
+    <item name="accent_color_pressed" type="color">#008c7e</item>
+    <item name="primary_text" type="color">#212121</item>
+    <item name="secondary_text" type="color">#727272</item>
+    <item name="divider_color" type="color">#B6B6B6</item>
+
+    <integer-array name="androidColors">
+        <item>@color/black</item>
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/errorRed</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+        <item>@color/teal</item>
+        <item>@color/grey</item>
+        <item>@color/light_grey</item>
+        <item>@color/dark_primary_color</item>
+        <item>@color/primary_color</item>
+        <item>@color/light_primary_color</item>
+        <item>@color/accent_color</item>
+        <item>@color/primary_text</item>
+        <item>@color/secondary_text</item>
+        <item>@color/divider_color</item>
+        <item>@color/darkgrey</item>
+    </integer-array>
+
+</resources> 
